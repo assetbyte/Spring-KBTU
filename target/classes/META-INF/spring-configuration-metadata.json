@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "app",
+      "type": "com.example.demo.AppProperties",
+      "sourceType": "com.example.demo.AppProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "app.max-users",
+      "type": "java.lang.Integer",
+      "sourceType": "com.example.demo.AppProperties"
+    },
+    {
+      "name": "app.name",
+      "type": "java.lang.String",
+      "sourceType": "com.example.demo.AppProperties"
+    },
+    {
+      "name": "app.timeout",
+      "type": "java.lang.Integer",
+      "sourceType": "com.example.demo.AppProperties"
+    }
+  ],
+  "hints": []
+}
